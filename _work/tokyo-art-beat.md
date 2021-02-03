@@ -4,7 +4,7 @@ date:             2016-10-10 14:00:00
 year:             2016
 color:            "#F3E8EE"
 class:            tokyoartbeat
-cover:            "https://cdn.dribbble.com/users/3692521/screenshots/15047628/media/770fb8881aed7ae0afde72593dce2b4a.mp4"
+cover:            "https://cdn.dribbble.com/users/2844289/screenshots/12049681/media/f1639d121996528e72f09f481a4b6ae2.gif"
 hyperlink:        https://www.webcomponents.org/
 type:             "iOS / Interaction & UI Design"
 description:      "Upcoming Tokyo art events, in your pocket"
