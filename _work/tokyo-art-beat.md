@@ -19,7 +19,7 @@ layout:           post
     <img class="post-content-screen iphone lazyload" src="{{ site.baseurl }}/img/work/tokyoartbeat/tab-login.png" />
   </div>
   <div class="post-content-column column-3">
-    <p> I had the chance to work on Tokyoites' beloved &#x000AB;TAB&#x000BB; app. Whether you want to search for photography exhibitions in your neighbourhood or plan a design show weekend in </p
+    <p> I had the chance to work on Tokyoites' beloved &#x000AB;TAB&#x000BB; app. Whether you want to search for photography exhibitions in your neighbourhood or plan a design show weekend in </p>
     <img class="post-content-screen iphone radius-tab lazyload" src="{{ site.baseurl }}/img/work/tokyoartbeat/tab-en.png" />
     <img class="post-content-screen iphone lazyload" src="{{ site.baseurl }}/img/work/tokyoartbeat/tab-browse.png" />
   </div>
