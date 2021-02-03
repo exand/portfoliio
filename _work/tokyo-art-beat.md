@@ -28,5 +28,7 @@ layout:           post
   </div>
 </div>
 
+<div class="post-content-grid">
 ## Заголовок
 и текст под **ним**
+  </div>
