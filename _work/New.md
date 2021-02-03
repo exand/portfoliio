@@ -3,7 +3,7 @@ title:            "Приложение дня"
 date:             2021-02-03 14:00:00
 year:             2021
 class:            stork
-cover:            "/https://cdn.dribbble.com/users/112840/screenshots/15053744/media/4625dccd95b7842063ec9d273d0be132.png?compress=1&resize=1600x1200"
+cover:            "https://cdn.dribbble.com/users/112840/screenshots/15053744/media/4625dccd95b7842063ec9d273d0be132.png?compress=1&resize=1600x1200"
 color:            "#E4E6F4"
 hyperlink:        https://www.storkmobile.com
 type:             "UX / UI / Front-end"
