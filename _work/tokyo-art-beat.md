@@ -2,7 +2,7 @@
 title:            "Tokyo Art Beat и русский"
 date:             2016-10-10 14:00:00
 year:             2016
-color:            "#F3E8EE"
+color:            "#00BCE5"
 class:            tokyoartbeat
 cover:            "https://cdn.dribbble.com/users/2844289/screenshots/12049681/media/f1639d121996528e72f09f481a4b6ae2.gif"
 hyperlink:        https://www.webcomponents.org/
