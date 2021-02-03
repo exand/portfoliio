@@ -26,3 +26,8 @@ layout:           post
     <img class="post-content-screen iphone lazyload radius" src="{{ site.baseurl }}/img/work/storkmobile/storkmobile-checkout-2.png" />
   </div>
 </div>
+
+<div class="post-header">
+  <h4 class="ts-half-margin">Type</h4>
+    <p class="ts-half-margin">{{ page.type }}</p>
+</div>
