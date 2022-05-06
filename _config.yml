@@ -1,7 +1,7 @@
 # Site settings
-title: Jānis Ekshtelis
-email: im@ekshtelis.com
-description: "My name is Jānis Ekshtelis. I’m a UI/UX lead designer. I’ve helped companies like Google, Asics, Indeed or Tokyo Art Beat to create new digital products since 2013."
+title: Exand
+email: admin@admin.admin
+description: "My name is Adam. I’m a UI/UX lead designer. I’ve helped companies like Google, Asics, Indeed or Tokyo Art Beat to create new digital products since 2013."
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog/
 url: "https://exand.github.io/portfolio" # the base hostname & protocol for your site
 ga: UA-45562731-1
